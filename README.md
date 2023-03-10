@@ -6,7 +6,7 @@ A daily Value converter for your day to day life.
 <li>Convert Weight</li>
 <li>Convert Length</li>
 </ul>
-# How Can I use it?
+<h1>How Can I use it?</h1>
 <ul>
   <li>The Very first thing you would need is python itself.</li>
   <li><a href="https://github.com/VishistTulsyan/Value-Converter/archive/refs/heads/main.zip">Then click here and install the file</a></li>
